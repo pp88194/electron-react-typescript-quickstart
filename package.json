@@ -63,6 +63,7 @@
   },
   "devDependencies": {
     "concurrently": "^7.6.0",
+    "nodemon": "^2.0.20",
     "cross-env": "^7.0.3",
     "electron": "^23.1.0",
     "electron-builder": "^23.6.0",
