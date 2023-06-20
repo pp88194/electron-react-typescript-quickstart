@@ -5,3 +5,13 @@
 <pre>
  git clone https://github.com/hyunsolcomment/electron-react-typescript-quickstart
 </pre>
+
+<h3>시작하기</h3>
+<pre>
+ npm start
+</pre>
+
+<h3>빌드</h3>
+<pre>
+ npm run build
+</pre>
